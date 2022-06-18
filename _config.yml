@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://yz14.github.io"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - 主页: "https://yz14.github.io"  
+  - 笔记: "https://yz14.github.io"
+  - 博客: "https://yz14.github.io"
 
 # All translation keys
 translations:
